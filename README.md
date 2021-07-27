@@ -1,2 +1,2 @@
-# pizza_hut
-api-latihan
+# PIZZA-HUT-API
+Learn API
